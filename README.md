@@ -1,6 +1,6 @@
 README.txt
 
-Exursion App Page
+Excursion App Page
 =================
        
 Codecademy Project
