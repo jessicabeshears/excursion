@@ -9,7 +9,7 @@ h1 {
     font-weight: bold;
     background-image: url('file:///C:/Excursion/files/resources/images/header.png');
     background-size: cover;
-    background-clip: text;
+    /*background-clip: text;*/
     -webkit-background-clip: text;
     color: transparent;
     border-bottom: 5px solid rgba(98, 134, 100, 0.25);
